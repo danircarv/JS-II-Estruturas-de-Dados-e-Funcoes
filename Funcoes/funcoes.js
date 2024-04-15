@@ -48,7 +48,7 @@ function objectAsParameter(usuario){
     usuario.email
 }
 
-muitosParametros("nome", "telefone", "endereço", "aniversario", "email", 'senha')
+manyParameters("nome", "telefone", "endereço", "aniversario", "email", 'senha')
 
 const dadosDoUsuario = {
     nome: "",
