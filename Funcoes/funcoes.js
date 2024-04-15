@@ -59,4 +59,4 @@ const dadosDoUsuario = {
     aniversario: ""
 }
 
-objectAsParameter(usuario)
+// objectAsParameter(usuario)
