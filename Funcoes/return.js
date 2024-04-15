@@ -44,4 +44,4 @@ function maioridade(idade){
 
 console.log(maioridade(44))
 
-console.log(maioridade(12   ))
+console.log(maioridade(12))
