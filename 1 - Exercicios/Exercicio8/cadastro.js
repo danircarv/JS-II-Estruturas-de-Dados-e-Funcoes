@@ -1,8 +1,10 @@
 let cadastro = []
-let imoveis = ""
+
 do{
+    let imoveis = ""
     for(let i = 0; i<cadastro.length;i++){
-        imoveis += `  Imóvel ${i + 1} - ${cadastro[i].name}\n`
+
+        imoveis += `  Imóvel ${i + 1} - ${cadastro[i].name}\n  `
     }
 
     option = parseInt(prompt(`Imóveis disponíveis:
